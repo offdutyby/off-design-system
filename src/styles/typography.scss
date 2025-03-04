@@ -1,0 +1,143 @@
+/* Display */
+@mixin display-56 {
+  font-size: 56px;
+  font-weight: 400;
+  line-height: 74px;
+  letter-spacing: -0.6px;
+}
+
+@mixin display-56-bold {
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 74px;
+  letter-spacing: -0.6px;
+}
+
+@mixin display-48 {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: -0.6px;
+}
+
+@mixin display-48-bold {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  letter-spacing: -0.6px;
+}
+
+/* Heading */
+@mixin heading-32 {
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 46px;
+  letter-spacing: -0.4px;
+}
+
+@mixin heading-32-bold {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 46px;
+  letter-spacing: -0.4px;
+}
+
+@mixin heading-24 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: -0.6px;
+}
+
+@mixin heading-24-bold {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: -0.6px;
+}
+
+@mixin heading-20 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.4px;
+}
+
+@mixin heading-20-bold {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.4px;
+}
+
+@mixin heading-16 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+@mixin heading-16-bold {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+/*Body*/
+@mixin body-16 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+@mixin body-16-bold {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+@mixin body-14 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+@mixin body-14-bold {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.4px;
+}
+
+/*Caption*/
+@mixin caption-13 {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+}
+
+@mixin caption-13-bold {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+}
+
+@mixin caption-12 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.4px;
+}
+
+@mixin caption-12-bold {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: -0.4px;
+}
